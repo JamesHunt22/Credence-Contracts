@@ -7,6 +7,7 @@ node_modules/
 !contracts/credence_delegation/test_snapshots/test_pausable_state/
 *.snap
 !contracts/credence_delegation/test_snapshots/test_pausable_state/*.snap
+temp_auto_push.bat
 *.snapshot
 *.local
 .DS_Store
@@ -17,3 +18,5 @@ node_modules/
 CLAUDE.md
 plan.md
 .opencode
+.gitignore
+branch_structure.json
